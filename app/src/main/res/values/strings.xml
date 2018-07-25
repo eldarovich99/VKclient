@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">VkClient</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="e_mail_or_number">E-mail or number</string>
+    <string name="forget">Forget?</string>
+    <string name="register">Register</string>
+</resources>
